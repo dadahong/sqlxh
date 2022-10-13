@@ -7,9 +7,8 @@
 
 首先在脚本所在的目录打开终端，运行以下命令
 ```
-./install.sh
+sudo pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyside2
 ```
-![image](https://user-images.githubusercontent.com/107929097/195261449-c39b096f-1aa2-468b-b4ab-4e933cada844.png)
 
 运行结束后双击即可打开脚本
 
